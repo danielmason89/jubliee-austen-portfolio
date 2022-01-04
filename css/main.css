@@ -38,12 +38,13 @@ header h1 {
   font-family: Lora;
   font-size: 30px;
   color: #bbc085;
+  display: inline-block;
 }
 
 nav {
   float: right;
-  padding: 75px 25px;
-  width: 1200px;
+  padding: 65px 25px;
+  /* width: 1200px; */
 }
 
 nav ul {
