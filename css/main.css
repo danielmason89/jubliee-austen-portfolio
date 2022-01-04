@@ -33,12 +33,13 @@ header {
   opacity: 1;
 }
 
-header h1 {
+.logo {
   padding: 65px 0 65px 25px;
   font-family: Lora;
   font-size: 30px;
   color: #bbc085;
   display: inline-block;
+  text-decoration: none;
 }
 
 nav {
